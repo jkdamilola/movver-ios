@@ -30,7 +30,7 @@ public protocol MOVVER_TableVM_Datasource {
     func movver_tableDatasource_sectionIndexTitles() -> [String]?
     func movver_tableDatasource(sectionForSectionIndexTitle title: String, at index: Int) -> Int
     
-    func movver_tableDatasource(commit editingStyle: UITableViewCellEditingStyle, forRowAt indexPath: IndexPath)
+    func movver_tableDatasource(commit editingStyle: UITableViewCell.EditingStyle, forRowAt indexPath: IndexPath)
     
 }
 
@@ -118,7 +118,7 @@ open class MOVVER_TableViewDataSource<C>:NSObject,UITableViewDataSource,MOVVER_T
     open func tableView(_ tableView: UITableView, sectionForSectionIndexTitle title: String, at index: Int) -> Int{
         return self.viewModelDataSource?.movver_tableDatasource(sectionForSectionIndexTitle: title, at: index) ?? 0
     }
-    open func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCellEditingStyle, forRowAt indexPath: IndexPath)
+    open func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCell.EditingStyle, forRowAt indexPath: IndexPath)
     {
         self.viewModelDataSource?.movver_tableDatasource(commit: editingStyle, forRowAt: indexPath)
     }
@@ -174,7 +174,7 @@ extension MOVVER_TableVM_Datasource{
 	public func movver_tableDatasource(moveRowAt sourceIndexPath: IndexPath, to destinationIndexPath: IndexPath) { }
 	public func movver_tableDatasource_sectionIndexTitles() -> [String]? { return nil }
 	public func movver_tableDatasource(sectionForSectionIndexTitle title: String, at index: Int) -> Int { return 0 }
-	public func movver_tableDatasource(commit editingStyle: UITableViewCellEditingStyle, forRowAt indexPath: IndexPath) {  }
+	public func movver_tableDatasource(commit editingStyle: UITableViewCell.EditingStyle, forRowAt indexPath: IndexPath) {  }
 }
 
 // MARK: Extension to implement automatically all the prefetch methods so they are not mandatory

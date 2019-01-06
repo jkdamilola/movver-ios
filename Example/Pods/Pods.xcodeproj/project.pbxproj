@@ -35,33 +35,33 @@
 
 /* Begin PBXFileReference section */
 		059EDF4BEAAABB3718FD8FA5046D349D /* Pods-movver-ios_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-movver-ios_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		09A6F5045B7C186C537C3F8F5FFADE78 /* Pods-movver-ios_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-movver-ios_Example.modulemap"; sourceTree = "<group>"; };
+		09A6F5045B7C186C537C3F8F5FFADE78 /* Pods-movver-ios_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-movver-ios_Example.modulemap"; sourceTree = "<group>"; };
 		1D520758F9A88A56D49A8A95F7F5A89B /* MOVVERDatasources.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = MOVVERDatasources.swift; sourceTree = "<group>"; };
-		2127A5D4D78CC27B6DD707ACA81B1759 /* Pods_movver_ios_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_movver_ios_Tests.framework; path = "Pods-movver-ios_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2127A5D4D78CC27B6DD707ACA81B1759 /* Pods_movver_ios_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_movver_ios_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		249086792235DBE4A3C06A7343882A70 /* Pods-movver-ios_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-movver-ios_Example-resources.sh"; sourceTree = "<group>"; };
 		2833DC43BF6C378DFACB5922A27F0C91 /* MOVVERCollectionViewDatasource.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = MOVVERCollectionViewDatasource.swift; sourceTree = "<group>"; };
 		2B35261D36A20379ADF7C7EE9086EF72 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2B3F5A4233CF020613C16C1F4D4824E0 /* Pods-movver-ios_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-movver-ios_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		2BA8D0490BAD9BF73C68EBBFD4F2F191 /* Movver.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Movver.modulemap; sourceTree = "<group>"; };
+		2BA8D0490BAD9BF73C68EBBFD4F2F191 /* Movver.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Movver.modulemap; sourceTree = "<group>"; };
 		30A7F352689F744A4F8CE6A02E57937A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		32A08D84267321A56B9DBF530AA45633 /* Movver-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Movver-umbrella.h"; sourceTree = "<group>"; };
 		39669F210FDBE7E0486E2D4B50B99A88 /* Pods-movver-ios_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-movver-ios_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		4349A3AD35F716C32CD3E923EBB9F78E /* Pods-movver-ios_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-movver-ios_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		45407796A24C7F5AAD27096E779CED6E /* Pods-movver-ios_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-movver-ios_Example.release.xcconfig"; sourceTree = "<group>"; };
 		48324714536DB17EC53F5A399E464B6B /* Pods-movver-ios_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-movver-ios_Tests-umbrella.h"; sourceTree = "<group>"; };
-		487AF6E940D46B5DA5A1F48F99FAA6CD /* Pods-movver-ios_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-movver-ios_Tests.modulemap"; sourceTree = "<group>"; };
+		487AF6E940D46B5DA5A1F48F99FAA6CD /* Pods-movver-ios_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-movver-ios_Tests.modulemap"; sourceTree = "<group>"; };
 		54787542CB87F340071501765CF69EF5 /* Pods-movver-ios_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-movver-ios_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		5503E433E958ADE8F33753A6D0C62792 /* Movver.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Movver.xcconfig; sourceTree = "<group>"; };
 		616BEB51ECCAD129BDBCB7A956B56CC6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6579841E782A15AF1014A14F3198F58D /* Movver-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Movver-prefix.pch"; sourceTree = "<group>"; };
-		6A74926D5448C2A6433B8B9A2E9538F4 /* Movver.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Movver.framework; path = Movver.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A74926D5448C2A6433B8B9A2E9538F4 /* Movver.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Movver.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		79731AC958023ED7FBF279D2D6DAE6B8 /* Pods-movver-ios_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-movver-ios_Example-dummy.m"; sourceTree = "<group>"; };
 		7EC994CDC2D681BA26389F78A7E4B325 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		84C4DE3430B85103D028ADDD5C673E8F /* Pods-movver-ios_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-movver-ios_Example-frameworks.sh"; sourceTree = "<group>"; };
 		864F071FA0DE7F02251B17CD7184652C /* Pods-movver-ios_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-movver-ios_Tests-resources.sh"; sourceTree = "<group>"; };
-		868230592A933A9DFE0B4BD68E9155EB /* Pods_movver_ios_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_movver_ios_Example.framework; path = "Pods-movver-ios_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		868230592A933A9DFE0B4BD68E9155EB /* Pods_movver_ios_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_movver_ios_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		88C84FECBE2C7F82A700391F994E0689 /* Pods-movver-ios_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-movver-ios_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9B2C0DD1BD70E658876527935C4B5DFA /* MOVVERTableViewDatasource.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = MOVVERTableViewDatasource.swift; sourceTree = "<group>"; };
 		A23BEF7C4C2B49D1BB0B4B09118CB4B4 /* Pods-movver-ios_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-movver-ios_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		A330AB39AFE855B3976DED93F82A589A /* Pods-movver-ios_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-movver-ios_Example-umbrella.h"; sourceTree = "<group>"; };
@@ -155,7 +155,6 @@
 			children = (
 				F086EFD70E1F3AD879D6035FA0D3E807 /* Classes */,
 			);
-			name = "movver-ios";
 			path = "movver-ios";
 			sourceTree = "<group>";
 		};
@@ -233,7 +232,6 @@
 				DB41604FA6CF6CFFA874E3D498570E29 /* MOVVERProtocols.swift */,
 				9B2C0DD1BD70E658876527935C4B5DFA /* MOVVERTableViewDatasource.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -326,7 +324,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 1010;
+				TargetAttributes = {
+					1460D19DFDE2D49B88377067B03F69A0 = {
+						LastSwiftMigration = 1010;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -392,6 +395,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D237F9167DAB51A21D003347EFC0B33A /* Pods-movver-ios_Example.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -449,7 +453,8 @@
 				PRODUCT_NAME = Movver;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -465,19 +470,31 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_RELEASE=1",
 					"$(inherited)",
@@ -491,6 +508,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -522,7 +541,8 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -568,6 +588,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 45407796A24C7F5AAD27096E779CED6E /* Pods-movver-ios_Example.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -643,20 +664,32 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_DEBUG=1",
@@ -674,6 +707,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
